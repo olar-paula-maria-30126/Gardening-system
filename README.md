@@ -1,1 +1,2 @@
 # Gardening-system
+The implementation of a mini soil humidity monitoring system for plants using the Arduino IDE development environment. This is a very useful product for gardening enthusiasts, farmers, and more. With the help of a humidity sensor, I gathered the necessary information, displayed the data on an LCD screen, and then notified the user with a message whether the plants need water or not. It is extremely useful for both rural and urban residents."
